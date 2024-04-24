@@ -1,5 +1,5 @@
-# cse210-student-template
-This is the starter code for students in CSE 210.
+# ProgWithClasses
+This is Jacob Sullivan's repository for the CSE 210 class at BYUI.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
