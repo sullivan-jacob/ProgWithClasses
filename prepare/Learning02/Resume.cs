@@ -3,7 +3,7 @@ using System.Reflection;
 
 public class Resume(string name)
 {
-    
+
     public string name = name;
     public List<Job> jobs = [];
 
