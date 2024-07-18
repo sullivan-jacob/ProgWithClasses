@@ -1,3 +1,5 @@
+using System.Runtime.InteropServices;
+
 class Tag{
     protected Dictionary<string, Tag> childTags = [];
     protected string filePath;

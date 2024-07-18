@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Foundation1 World!");
+        int consoleHeight = Console.WindowHeight;
+        int consoleWidth = Console.WindowWidth;
     }
 }
